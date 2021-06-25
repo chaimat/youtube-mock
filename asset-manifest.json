@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/youtube-mock/static/css/main.4965ec2a.chunk.css",
-    "main.js": "/youtube-mock/static/js/main.c3f4356b.chunk.js",
-    "main.js.map": "/youtube-mock/static/js/main.c3f4356b.chunk.js.map",
+    "main.js": "/youtube-mock/static/js/main.de2fe152.chunk.js",
+    "main.js.map": "/youtube-mock/static/js/main.de2fe152.chunk.js.map",
     "runtime-main.js": "/youtube-mock/static/js/runtime-main.2a3379c9.js",
     "runtime-main.js.map": "/youtube-mock/static/js/runtime-main.2a3379c9.js.map",
     "static/js/2.dc9adb55.chunk.js": "/youtube-mock/static/js/2.dc9adb55.chunk.js",
     "static/js/2.dc9adb55.chunk.js.map": "/youtube-mock/static/js/2.dc9adb55.chunk.js.map",
     "index.html": "/youtube-mock/index.html",
-    "precache-manifest.4d1677b6fe15b718237d9880ef9da387.js": "/youtube-mock/precache-manifest.4d1677b6fe15b718237d9880ef9da387.js",
+    "precache-manifest.1c737626ba898684fd9863bb95979725.js": "/youtube-mock/precache-manifest.1c737626ba898684fd9863bb95979725.js",
     "service-worker.js": "/youtube-mock/service-worker.js",
     "static/css/main.4965ec2a.chunk.css.map": "/youtube-mock/static/css/main.4965ec2a.chunk.css.map",
     "static/js/2.dc9adb55.chunk.js.LICENSE.txt": "/youtube-mock/static/js/2.dc9adb55.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.2a3379c9.js",
     "static/js/2.dc9adb55.chunk.js",
     "static/css/main.4965ec2a.chunk.css",
-    "static/js/main.c3f4356b.chunk.js"
+    "static/js/main.de2fe152.chunk.js"
   ]
 }
